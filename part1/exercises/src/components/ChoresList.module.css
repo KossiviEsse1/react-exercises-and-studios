@@ -3,10 +3,16 @@
    font-family: 'Courier New', Courier, monospace;
    font-size: medium;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
    color: blue;
    font-family: 'Courier New', Courier, monospace;
    text-decoration: underline;
+   text-align: left;
+}
+
+.all {
+   background-color: aliceblue;
 }
